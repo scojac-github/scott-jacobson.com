@@ -13,7 +13,14 @@ links:
 output:
   postcards::jolla
 ---
- 
-`r emo::ji("cloud_with_lightning")` Salesforce Administrator @ The Wharton School
+ ```{css, echo=FALSE}
+@font-face {
+    font-family: 'FantasqueSansMonoRegular'; 
+    src: url('fantasquesansmono-regular.otf') format("opentype");
+}
+* { font-family: 'FantasqueSansMonoRegular'; }
+```
 
-`r emo::ji("man_technologist")` Dabbling in #rstats
+`r emo::ji("cloud_with_lightning")` Salesforce Administrator @ `r emo::ji("graduation_cap")` The Wharton School
+
+`r emo::ji("man_technologist")` Dabbling in #rstats 
