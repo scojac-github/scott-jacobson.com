@@ -1,0 +1,19 @@
+---
+title: "Scott Jacobson"
+image: "profile-pic.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/scott-a-jacobson/"
+  - label: Trailhead
+    url: "https://trailblazer.me/id/sjacobson1"
+  - label: GitHub
+    url: "https://github.com/scojac-github"
+  - label: Email
+    url: "mailto:s.jacobson267@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+`r emo::ji("cloud_with_lightning")` Salesforce Administrator @ The Wharton School
+
+`r emo::ji("man_technologist")` Dabbling in #rstats
