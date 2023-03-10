@@ -1,6 +1,6 @@
 ---
 title: "Scott Jacobson"
-image: "profile-pic.png"
+image: "IMG_5892.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/scott-a-jacobson/"
