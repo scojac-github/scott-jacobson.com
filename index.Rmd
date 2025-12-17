@@ -21,6 +21,6 @@ output:
 * { font-family: 'FantasqueSansMonoRegular'; }
 ```
 
-`r emo::ji("cloud_with_lightning")` Salesforce Solution Developer @ `r emo::ji("graduation_cap")` The Wharton School
+`r emo::ji("cloud_with_lightning")` Salesforce Certified Application Architect
 
-`r emo::ji("man_technologist")` Dabbling in #rstats 
+`r emo::ji("man_technologist")` Dabbling in Salesforce, #rstats, and more. 
